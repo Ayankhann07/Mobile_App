@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Play Store upload key - never commit. Back this folder up somewhere safe.
+/credentials
+
+# archives
+*.zip
